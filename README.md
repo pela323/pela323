@@ -5,7 +5,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="img/logo.png" alt="Logo Ezequiel" width="120" />
+  <img src="img/logo.png" alt="Logo GattiDev" width="120" />
 </p>
 
 # 👋 ¡Hola! Soy **Ezequiel Gatti**
@@ -38,7 +38,7 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**, asegu
 
 | Proyecto | Descripción | Vista previa |
 |----------|-------------|--------------|
-| [Gatti Web](https://github.com/pela323/gatti-web) | Sitio profesional de servicios web y hosting. | <img src="img/gatti-thumb.png" width="200"/> |
+| [Gatti Web](https://gattidev.com.ar) | Sitio profesional de servicios web y hosting. | <img src="img/gatti-thumb.png" width="200"/> |
 | [Stokira](https://github.com/pela323/stokira) | Sistema de gestión de inventarios y reportes. | <img src="img/stokira-thumb.png" width="200"/> |
 | [Accio Stock](https://github.com/pela323/accio-stock) | Plataforma para clientes con descargas de recursos. | <img src="img/accio-thumb.png" width="200"/> |
 
@@ -59,13 +59,13 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**, asegu
 
 ## 💬 Frase profesional
 
-> “El código no solo crea soluciones, transforma ideas en productos funcionales y eficientes.” 💡
+> “Diseñar, desarrollar y optimizar experiencias digitales que inspiran confianza y generan resultados.” 💡
 
 ---
 
 ## 📅 Actividad reciente
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pela323&bg_color=0d1117&color=c48f33&line=c48f33&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pela323&bg_color=ffffff&color=c48f33&line=c48f33&point=4c4c4c&area=true&hide_border=true)
 
 ---
 
@@ -109,7 +109,7 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**, asegu
 ## 📫 Contacto
 
 <p align="center">
-  📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com) | 🌐 [Mi web](https://tusitio.com) | 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+  📧 [gattidev3223@gatti.com.ar](mailto:gattidev3223@gatti.com.ar) | 🌐 [gattidev.com.ar](https://gattidev.com.ar) | 💼 [LinkedIn](https://linkedin.com/in/gattidev323)
 </p>
 
 <p align="center">
