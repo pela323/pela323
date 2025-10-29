@@ -91,7 +91,8 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 ##</p>
 
 ##<p align="center">
-  ##<img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="Top languages" height="150"/>
+  ##<img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" height="150" />
+
 ##</p>
 
 --->
