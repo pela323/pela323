@@ -73,9 +73,8 @@ Seguir creciendo en desarrollo Full-Stack y diseño UI/UX.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 📅 Actividad reciente
