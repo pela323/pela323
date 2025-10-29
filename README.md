@@ -72,7 +72,7 @@ Seguir creciendo en desarrollo Full-Stack y diseño UI/UX.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -80,7 +80,8 @@ Seguir creciendo en desarrollo Full-Stack y diseño UI/UX.
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical"/>
+  
   <br/>
   <small>Si tu streak no aparece, comienza a hacer commits diarios para mostrar tu racha.</small>
 </p>
