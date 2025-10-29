@@ -79,8 +79,10 @@ Seguir creciendo en desarrollo Full-Stack y diseño UI/UX.
 <br>
 
 <!-- GitHub Streak -->
-<p align="center"> 
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <small>Si tu streak no aparece, comienza a hacer commits diarios para mostrar tu racha.</small>
 </p>
 <br>
 
