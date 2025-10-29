@@ -77,7 +77,7 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical" alt="Top languages" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" />
 </p>
 <!--## 🏆 Logros y estadísticas
 
