@@ -62,29 +62,34 @@ Seguir creciendo en desarrollo Full-Stack y diseño UI/UX.
 ---
 
 ## 🏆 Estadísticas
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pela323&theme=onedark&no-frame=true&row=1" alt="trophies"/>
 </p>
 
 <br>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical"/>
 </p>
 
+<br>
 <br>
 
 <!-- GitHub Streak -->
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="Top languages" height="150"/> 
+  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" />
 </p>
----
+<br>
 
 ## 📅 Actividad reciente
+<br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pela323&bg_color=0d1117&color=c48f33&line=c48f33&point=ffffff&area=true&hide_border=true)
 
+<br>
 ---
 
 ## ⚡ Fun fact
