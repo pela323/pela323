@@ -62,15 +62,22 @@ Seguir creciendo en desarrollo Full-Stack y diseño UI/UX.
 ---
 
 ## 🏆 Estadísticas
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pela323&theme=onedark&no-frame=true&row=1" alt="trophies"/>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical" height="150"/>
 </p>
 
+<br>
+
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="GitHub Streak" height="150" />
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=pela323&theme=radical" alt="Top languages" height="150"/> 
 </p>
 ---
 
