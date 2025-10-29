@@ -71,7 +71,7 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 ## 📅 Actividad reciente
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&bg_color=0d1117&color=c48f33&line=c48f33&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pela323&bg_color=0d1117&color=c48f33&line=c48f33&point=ffffff&area=true&hide_border=true)
 
 ---
 
@@ -87,8 +87,8 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
 </p>
 
 ---
