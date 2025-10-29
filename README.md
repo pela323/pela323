@@ -13,7 +13,7 @@
 <h3 align="center">💻 Desarrollador Web Full-Stack | Argentina 🇦🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lato&size=20&duration=4000&pause=1000&color=C48F33&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+experiencias+digitales;Apasionado+por+la+tecnología;Desarrollando+soluciones+modernas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&size=20&duration=4000&pause=1000&color=C48F33&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+experiencias+digitales;Creando+soluciones+eficientes+y+modernas;Apasionado+por+la+tecnología" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 Soy un **programador web Full-Stack** apasionado por crear soluciones digitales personalizadas.  
 Trabajo en desarrollo de sitios web, sistemas de gestión, hosting y mantenimiento técnico.  
-Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
+Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**, asegurando resultados de alta calidad.
 
 ---
 
@@ -57,9 +57,9 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 ---
 
-## 💬 Frase personal
+## 💬 Frase profesional
 
-> “El código es el puente entre las ideas y la realidad.” 🧠💡
+> “El código no solo crea soluciones, transforma ideas en productos funcionales y eficientes.” 💡
 
 ---
 
@@ -69,7 +69,7 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 ---
 
-## 🏆 Estadísticas
+## 🏆 Estadísticas y logros
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pela323&theme=onedark&no-frame=true&row=1" alt="trophies"/>
