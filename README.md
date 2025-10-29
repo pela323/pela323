@@ -1,19 +1,24 @@
-<!-- Banner principal -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/pela323/pela323/raw/main/assets/banner.png" alt="Banner de Ezequiel Dev" width="100%" />
+  <img src="img/banner.png" alt="Banner de Ezequiel Dev" width="100%" />
 </p>
 
-<!-- Logo personal -->
+<!-- Logo -->
 <p align="center">
-  <img src="https://github.com/pela323/pela323/raw/main/assets/logo.png" alt="Logo Ezequiel" width="120" />
+  <img src="img/logo.png" alt="Logo Ezequiel" width="120" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Ezequiel</h1>
+# 👋 ¡Hola! Soy **Ezequiel Gatti**
+
 <h3 align="center">💻 Desarrollador Web Full-Stack | Argentina 🇦🇷</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&size=20&duration=4000&pause=1000&color=C48F33&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+experiencias+digitales;Apasionado+por+la+tecnología;Desarrollando+soluciones+modernas" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧩 Sobre mí
+## 🧩 Sobre mí
 
 Soy un **programador web Full-Stack** apasionado por crear soluciones digitales personalizadas.  
 Trabajo en desarrollo de sitios web, sistemas de gestión, hosting y mantenimiento técnico.  
@@ -23,29 +28,19 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 ## 🧰 Tecnologías que utilizo
 
-### 💻 Lenguajes
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### ⚙️ Frameworks y herramientas
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,figma,bootstrap,wordpress" />
+</p>
 
 ---
 
 ## 🚀 Últimos proyectos
 
-| Proyecto | Descripción | Enlace |
-|-----------|-------------|--------|
-| 🟦 **Gatti Web** | Sitio profesional donde ofrezco servicios de desarrollo web, hosting y dominios. | [🌐 Ver proyecto](https://tusitio.com) |
-| 🟨 **Stokira** | Sistema de gestión de inventarios: productos, stock, reportes y usuarios. | [💾 Repositorio](https://github.com/tuusuario/stokira) |
-| 🟧 **Accio Stock** | Sitio donde los clientes pueden ver servicios y descargar recursos. | [📦 Ver en GitHub](https://github.com/tuusuario/accio-stock) |
+| Proyecto | Descripción | Vista previa |
+|----------|-------------|--------------|
+| [Gatti Web](https://github.com/pela323/gatti-web) | Sitio profesional de servicios web y hosting. | <img src="img/gatti-thumb.png" width="200"/> |
+| [Stokira](https://github.com/pela323/stokira) | Sistema de gestión de inventarios y reportes. | <img src="img/stokira-thumb.png" width="200"/> |
+| [Accio Stock](https://github.com/pela323/accio-stock) | Plataforma para clientes con descargas de recursos. | <img src="img/accio-thumb.png" width="200"/> |
 
 ---
 
@@ -53,8 +48,8 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 📘 **Actualmente aprendiendo:**  
 - React.js ⚛️  
-- APIs REST y manejo de autenticación JWT  
-- Automatización de backups en hosting y paneles admin  
+- APIs REST y autenticación JWT  
+- Automatización de backups en hosting y paneles administrativos  
 
 📈 **Próximos objetivos:**  
 - Integrar React con PHP (backend personalizado)  
@@ -64,14 +59,30 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 ## 💬 Frase personal
 
-> “El código es el puente entre las ideas y la realidad.” 🧠💡  
-> Me gusta transformar conceptos en soluciones funcionales, simples y con buena experiencia de usuario.
+> “El código es el puente entre las ideas y la realidad.” 🧠💡
 
 ---
 
 ## 📅 Actividad reciente
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pela323&bg_color=0d1117&color=c48f33&line=c48f33&point=ffffff&area=true&hide_border=true)
+
+---
+
+## 🏆 Logros y estadísticas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pela323&theme=onedark&no-frame=true&row=1" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical" alt="Top languages" height="150"/>
+</p>
+
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=pela323&theme=radical)
+</p>
 
 ---
 
@@ -84,25 +95,27 @@ Mi enfoque está en la **simplicidad, escalabilidad y diseño funcional**.
 
 ---
 
-## 📊 Estadísticas
+## 🔥 En qué estoy trabajando
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pela323&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pela323&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
-</p>
+- 🚀 Mejorando **Stokira** con nuevos módulos.  
+- 🌐 Rediseñando **Gatti Web** para experiencia más moderna.  
+- 📚 Aprendiendo **React** y **Next.js** para frontends dinámicos.
 
 ---
 
 ## 📫 Contacto
 
-📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-🌐 **Web personal:** [https://tusitio.com](https://tusitio.com)  
-💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🐙 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+<p align="center">
+  📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com) | 🌐 [Mi web](https://tusitio.com) | 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+</p>
+
+<p align="center">
+  <a href="https://github.com/pela323">
+    <img src="https://img.shields.io/badge/GitHub-Seguime-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Créditos
-
-Diseñado y desarrollado por **Ezequiel - Gatti Dev**  
-💡 Inspirado en la idea de un perfil que combine **tecnología + diseño**.  
+✨ Diseñado y desarrollado por **Ezequiel - Gatti Dev**  
+💡 Inspirado en perfiles profesionales y visualmente atractivos.
